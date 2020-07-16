@@ -41,7 +41,7 @@ jobs:
         seleniumbase install geckodriver
 
 
-    - name: make degoo active
+    - name: Make degoo active
       env:
         USERNAME: ${{ secrets.USERNAME }}
         PASSWORD: ${{ secrets.PASSWORD }}
