@@ -123,7 +123,7 @@ setup(
         'soupsieve==1.9.6;python_version<"3.5"',
         'soupsieve==2.0.1;python_version>="3.5"',
         'beautifulsoup4==4.9.1',
-        'cryptography==2.9.2',
+        'cryptography==3.2',
         'pyopenssl==19.1.0',
         'pygments==2.5.2;python_version<"3.5"',
         'pygments==2.6.1;python_version>="3.5"',
